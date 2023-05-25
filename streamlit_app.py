@@ -1,8 +1,8 @@
 import streamlit
 
-streamlit.header('What a lovely world is out there !! ')
+streamlit.title('What a lovely world is out there !! ')
 
-streamlit.text('Take a deep breathe !! ')
+streamlit.header('Take a deep breathe !! ')
 
 streamlit.text('Feel yourself and breeze around !! ')
 
